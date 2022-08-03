@@ -1,0 +1,51 @@
+#splash img {
+    width: 50px;
+    float: left;
+}
+
+#cardByYear img{
+    height: 500px;
+}
+
+#NavBar {
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: 'Anton';
+}
+
+.filter-list {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Anton';
+    margin-right: 10%;
+}
+
+.filter-button {
+    width: 80%;
+    height: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-color: white;
+    color: white;
+    background-color: cornflowerblue;
+    font-family: 'Anton';
+}
+
+.card-display {
+    padding-top: 10%;
+    padding-bottom: 15%;
+    text-align: center;
+}
+
+#footer{
+    alignment: center;
+    background-color: orange;
+}
+
+.header {
+    color: orange;
+    text-align: center;
+}
